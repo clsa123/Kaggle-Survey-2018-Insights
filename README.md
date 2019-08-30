@@ -1,6 +1,7 @@
 # Kaggle-Survey-2018-Insights
 
 The goal of this project is to extract useful insights from kaggle survey through python visualization.
+I want to find out all the information related to data science so that I can have a better understanding of this field.
 
 It contains three parts:
 
